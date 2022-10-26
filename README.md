@@ -11,4 +11,4 @@ This repsitory contains soltuions for Leetcode, Codechef and other coding platof
 - Create a PR by pushing your commit
 
 # Advantage
-- This repository will provide solutions to DSA based questions that will help in improving coding skills.
+- This repository provides solutions to DSA based questions which will help in improving coding skills.
